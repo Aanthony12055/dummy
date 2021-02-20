@@ -1,3 +1,4 @@
+//console.log("I am Javascript")
     var johnMass = "50kg";
    	var johnHeight = "1.75m";
    	var johnBmical =parseInt(johnMass) / Math.pow((parseFloat(johnHeight)), 2);
@@ -18,3 +19,4 @@
     console.log(johnBMI)
     console.log(victorBMI)
     console.log( final )
+
